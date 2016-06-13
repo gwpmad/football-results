@@ -1,0 +1,4662 @@
+{
+  "Manchester United FC": {
+    "id": 0,
+    "results": [
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 3,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 3,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 3,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 2,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 3,
+        "conceded": 1
+      }
+    ]
+  },
+  "Everton FC": {
+    "id": 1,
+    "results": [
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 3,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 6,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 4,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 3,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 2,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 3,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 3,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 2,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 0,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 3,
+        "conceded": 0
+      }
+    ]
+  },
+  "AFC Bournemouth": {
+    "id": 2,
+    "results": [
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 4,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 1,
+        "conceded": 5
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 5
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 3,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 3,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 0,
+        "conceded": 4
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 1,
+        "conceded": 4
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 1,
+        "conceded": 3
+      }
+    ]
+  },
+  "Leicester City FC": {
+    "id": 3,
+    "results": [
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 4,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 3,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 2,
+        "conceded": 5
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 3,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 3,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 4,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 1,
+        "conceded": 1
+      }
+    ]
+  },
+  "Norwich City FC": {
+    "id": 4,
+    "results": [
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 2,
+        "conceded": 6
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 4,
+        "conceded": 5
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 3,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 4,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 0,
+        "conceded": 3
+      }
+    ]
+  },
+  "Chelsea FC": {
+    "id": 5,
+    "results": [
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 3,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 3,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 5,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 4,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 4,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 2,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 1,
+        "conceded": 1
+      }
+    ]
+  },
+  "Arsenal FC": {
+    "id": 6,
+    "results": [
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 5,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 0,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 3,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 2,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 4,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 3,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 4,
+        "conceded": 0
+      }
+    ]
+  },
+  "Newcastle United FC": {
+    "id": 7,
+    "results": [
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 1,
+        "conceded": 6
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 6,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 1,
+        "conceded": 5
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 3,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 1,
+        "conceded": 5
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 2,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 5,
+        "conceded": 1
+      }
+    ]
+  },
+  "Stoke City FC": {
+    "id": 8,
+    "results": [
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 4,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 1,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 0,
+        "conceded": 4
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 0,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 2,
+        "conceded": 1
+      }
+    ]
+  },
+  "West Bromwich Albion FC": {
+    "id": 9,
+    "results": [
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 2,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 2,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 2,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 3,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 1,
+        "conceded": 1
+      }
+    ]
+  },
+  "Aston Villa FC": {
+    "id": 10,
+    "results": [
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 2,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 2,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 0,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 2,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 0,
+        "conceded": 6
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 0,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 0,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 2,
+        "conceded": 4
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 2,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 4
+      }
+    ]
+  },
+  "Southampton FC": {
+    "id": 11,
+    "results": [
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 2,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 4,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 3,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 4,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 4,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 4,
+        "conceded": 1
+      }
+    ]
+  },
+  "West Ham United FC": {
+    "id": 12,
+    "results": [
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 3,
+        "conceded": 4
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 3,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 3,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 1,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 3,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 1,
+        "conceded": 2
+      }
+    ]
+  },
+  "Sunderland AFC": {
+    "id": 13,
+    "results": [
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 2,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 2,
+        "conceded": 6
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 1,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 4,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 3,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 2,
+        "conceded": 2
+      }
+    ]
+  },
+  "Swansea City FC": {
+    "id": 14,
+    "results": [
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 2,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 2,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 0,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 4,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 1,
+        "conceded": 1
+      }
+    ]
+  },
+  "Watford FC": {
+    "id": 15,
+    "results": [
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 3,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 3,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 2,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 2,
+        "conceded": 2
+      }
+    ]
+  },
+  "Tottenham Hotspur FC": {
+    "id": 16,
+    "results": [
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 4,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 5,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 4,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 4,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 4,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 1,
+        "conceded": 5
+      }
+    ]
+  },
+  "Crystal Palace FC": {
+    "id": 17,
+    "results": [
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 5,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 0,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 2,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 1,
+        "conceded": 4
+      }
+    ]
+  },
+  "Manchester City FC": {
+    "id": 18,
+    "results": [
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 6,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 5,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Liverpool FC",
+        "scored": 1,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 4,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 4,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Liverpool FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 4,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 4,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 4,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 2,
+        "conceded": 4
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 1,
+        "conceded": 1
+      }
+    ]
+  },
+  "Liverpool FC": {
+    "id": 19,
+    "results": [
+      {
+        "location": "away",
+        "opponent": "Stoke City FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "AFC Bournemouth",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Arsenal FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "West Ham United FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester United FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Norwich City FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Aston Villa FC",
+        "scored": 3,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Everton FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 0,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Southampton FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Chelsea FC",
+        "scored": 3,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Crystal Palace FC",
+        "scored": 1,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Manchester City FC",
+        "scored": 4,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Swansea City FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Newcastle United FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Watford FC",
+        "scored": 0,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Leicester City FC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Sunderland AFC",
+        "scored": 1,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "West Ham United FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Arsenal FC",
+        "scored": 3,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester United FC",
+        "scored": 0,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Norwich City FC",
+        "scored": 5,
+        "conceded": 4
+      },
+      {
+        "location": "away",
+        "opponent": "Leicester City FC",
+        "scored": 0,
+        "conceded": 2
+      },
+      {
+        "location": "home",
+        "opponent": "Sunderland AFC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Aston Villa FC",
+        "scored": 6,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Manchester City FC",
+        "scored": 3,
+        "conceded": 0
+      },
+      {
+        "location": "away",
+        "opponent": "Crystal Palace FC",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "Southampton FC",
+        "scored": 2,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Tottenham Hotspur FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Stoke City FC",
+        "scored": 4,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "AFC Bournemouth",
+        "scored": 2,
+        "conceded": 1
+      },
+      {
+        "location": "home",
+        "opponent": "Everton FC",
+        "scored": 4,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Newcastle United FC",
+        "scored": 2,
+        "conceded": 2
+      },
+      {
+        "location": "away",
+        "opponent": "Swansea City FC",
+        "scored": 1,
+        "conceded": 3
+      },
+      {
+        "location": "home",
+        "opponent": "Watford FC",
+        "scored": 2,
+        "conceded": 0
+      },
+      {
+        "location": "home",
+        "opponent": "Chelsea FC",
+        "scored": 1,
+        "conceded": 1
+      },
+      {
+        "location": "away",
+        "opponent": "West Bromwich Albion FC",
+        "scored": 1,
+        "conceded": 1
+      }
+    ]
+  }
+}

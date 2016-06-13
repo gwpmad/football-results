@@ -1,0 +1,22 @@
+{
+  "name": "football-results",
+  "description": "an app that displays data about football results, starting with the 2015-16 Premier League.",
+  "main": "server.js",
+  "authors": [
+    "gwpmad"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-2.1.0.min": "http://code.jquery.com/jquery-2.1.0.min.js",
+    "bootstrap": "^3.3.6"
+  }
+}
