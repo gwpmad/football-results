@@ -1,6 +1,7 @@
-module.exports = (req, res, next) => {
+module.exports = (req, res) => {
   const { metric, teamId } = req.params;
-  const metricStat = require(`./metrics/${metric}`)(teamId);
+  console.log('require(`./metrics/${metric}`)(teamId);', require(`./metrics/${metric}`)(teamId))
+  const { metricStat, teamName } = require(`./metrics/${metric}`)(teamId);
 
-  res.render('metric', { metric });
-}
+  res.render('metric', { metric, metricStat, teamName });
+};
