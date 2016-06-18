@@ -1,11 +1,12 @@
-const fs = require('fs');
+const changeCase = require('change-case');
 const metrics = require('./metrics');
 
 module.exports = (req, res, next) => {
   const { teamId } = req.params;
+  const metricList = Object.keys(metrics).map(metric => ({
+    metric,
+    metricSentenceCase: changeCase.sentenceCase(metric),
+  }));
 
-  const plFixtures = require('../data/premierLeague/2015-16.json');
-  const metricList = Object.keys(metrics);
-
-  res.render('metricList', { metricList, teamId })
-}
+  res.render('metricList', { metricList, teamId });
+};

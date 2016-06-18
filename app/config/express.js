@@ -24,12 +24,12 @@ module.exports = function() {
 
   // error handling - this middleware comes last
   app.use(function(err, req, res, next){
+    console.log('An error occurred:', err);
     res.render('500', {
         status: err.status || 500,
         error: err
     });
   });
-
 
   return app;
 };

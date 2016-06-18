@@ -1,5 +1,9 @@
 module.exports = (req, res) => {
   const plResults = require('../data/premierLeague/2015-16.json');
-  const teamNames = Object.keys(plResults);
-  res.render('home', { teamNames });
+  const teams = Object.keys(plResults).map((team) => ({
+    teamName: team,
+    teamId: plResults[team].id,
+  }));
+  
+  res.render('home', { teams });
 };

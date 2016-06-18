@@ -2,8 +2,8 @@
   {{#each metricList}}
     <ul>
       <li>
-        <a href="/{{this}}/{{../teamId}}">
-          {{this}}
+        <a href="/{{this.metric}}/{{../teamId}}">
+          {{this.metricSentenceCase}}
         </a>
       </li>
     </ul>

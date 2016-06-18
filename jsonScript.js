@@ -12,7 +12,7 @@ const convertJSON = (array) => {
     delete fixture.status;
     delete fixture.matchday;
 
-    dict[fixture[homeTeamName]] = {};
+    dict[fixture['homeTeamName']] = {};
   });
 
   Object.keys(dict).forEach((team, index) => {

@@ -1,7 +1,11 @@
 <ul class="team-list">
-  {{#each teamNames}}
+  {{#each teams}}
     <ul>
-      <li>{{this}}</li>
+      <li>
+        <a href="/metricList/{{this.teamId}}">
+          {{this.teamName}}
+        </a>
+      </li>
     </ul>
   {{/each}}
 </ul>
