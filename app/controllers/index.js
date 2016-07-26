@@ -1,7 +1,9 @@
 const fs = require('fs');
+const isNonIndexFile = require('../lib/utils').isNonIndexFile;
+
 const controllerObj = fs.readdirSync(__dirname)
   .reduce((memo, file) => {
-    if(fs.statSync(`${__dirname}/${file}`).isFile() && file !== 'index.js') {
+    if(isNonIndexFile(file, __dirname)) {
       const fileName = file.replace('.js', '');
       memo[fileName] = require(`./${fileName}`);
     }

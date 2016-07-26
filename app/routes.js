@@ -5,7 +5,5 @@ module.exports = function(app) {
 
   app.get('/metriclist/:teamId', controllers.metricList);
 
-  app.get('/:metric/:teamId', (req, res, next) => {
-    controllers.metric(req, res, next);
-  });
+  app.get('/:metric/:teamId', controllers.metric);
 };

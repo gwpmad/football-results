@@ -1,12 +1,13 @@
 const fs = require('fs');
-const metricObj = {};
-const metricList = fs.readdirSync(__dirname )
-  .filter((file) => fs.statSync(`${__dirname}/${file}`).isFile()
-  && file !== 'index.js')
-    .map((name) => name.replace('.js', ''));
+const isNonIndexFile = require('../../lib/utils').isNonIndexFile;
 
-metricList.forEach((file) => {
-  metricObj[file] = require(`./${file}`);
-});
+const metricObj = fs.readdirSync(__dirname)
+  .reduce((memo, file) => {
+    if(isNonIndexFile(file, __dirname)) {
+      const fileName = file.replace('.js', '');
+      memo[fileName] = require(`./${fileName}`);
+    }
+    return memo;
+  }, {});
 
 module.exports = metricObj;

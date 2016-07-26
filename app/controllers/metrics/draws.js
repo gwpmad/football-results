@@ -3,7 +3,6 @@ const plResults = require('../../data/premierLeague/2015-16.json');
 const countDrawnGames = (array) => {
   const drawnGames = array.filter((result) =>
     result.scored === result.conceded);
-
   return drawnGames.length;
 };
 
