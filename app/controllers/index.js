@@ -1,12 +1,11 @@
 const fs = require('fs');
-const controllerObj = {};
-const controllerList = fs.readdirSync(__dirname )
-  .filter((file) => fs.statSync(`${__dirname}/${file}`).isFile()
-  && file !== 'index.js')
-    .map((name) => name.replace('.js', ''))
-
-controllerList.forEach((file) => {
-  controllerObj[file] = require(`./${file}`)
-})
+const controllerObj = fs.readdirSync(__dirname)
+  .reduce((memo, file) => {
+    if(fs.statSync(`${__dirname}/${file}`).isFile() && file !== 'index.js') {
+      const fileName = file.replace('.js', '');
+      memo[fileName] = require(`./${fileName}`);
+    }
+    return memo;
+  }, {});
 
 module.exports = controllerObj;
