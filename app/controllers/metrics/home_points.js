@@ -1,4 +1,5 @@
 const plResults = require('../../data/premierLeague/2015-16.json');
+const { resultsArray } = require('../../lib/utils');
 
 const sumHomePoints = (array) => {
   let total = 0;
@@ -14,8 +15,7 @@ const sumHomePoints = (array) => {
 };
 
 module.exports = (teamName) => {
-  const teamHomeResultsArray = plResults[teamName].results
-    .filter((result) => result.location === 'home');
+  const teamHomeResultsArray = resultsArray(teamName, 'home');
   const homePoints = sumHomePoints(teamHomeResultsArray);
 
   return homePoints;

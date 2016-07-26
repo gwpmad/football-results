@@ -1,5 +1,5 @@
 const fs = require('fs');
-const isNonIndexFile = require('../lib/utils').isNonIndexFile;
+const { isNonIndexFile } = require('../lib/utils');
 
 const controllerObj = fs.readdirSync(__dirname)
   .reduce((memo, file) => {
