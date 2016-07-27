@@ -11,42 +11,44 @@ const resultsArray = (team, venue) => {
 };
 
 const convertJSONToTeamDict = (json) => {
-  const fixtures = json.fixtures;
-  const dict = {};
+    const fixtures = json.fixtures;
+    const dict = {};
 
-  fixtures.forEach((fixture) => {
-    let homeTeamName = fixture['homeTeamName'];
-    let awayTeamName = fixture['awayTeamName'];
-    let result = fixture['result'];
+    fixtures.forEach((fixture) => {
+        let homeTeamName = fixture['homeTeamName'];
+        let awayTeamName = fixture['awayTeamName'];
+        let result = fixture['result'];
 
-    dict[homeTeamName] = dict[homeTeamName] || {
-      results: [],
-    };
+        dict[homeTeamName] = dict[homeTeamName] || {
+            results: [],
+            id: Object.keys(dict).length,
+        };
 
-    dict[awayTeamName] = dict[awayTeamName] || {
-      results: [],
-    };
+        dict[awayTeamName] = dict[awayTeamName] || {
+            results: [],
+            id: Object.keys(dict).length,
+        };
 
-    dict[homeTeamName].results.push({
-      location: 'home',
-      opponent: awayTeamName,
-      scored: result['goalsHomeTeam'],
-      conceded: result['goalsAwayTeam'],
+        dict[homeTeamName].results.push({
+            location: 'home',
+            opponent: awayTeamName,
+            scored: result['goalsHomeTeam'],
+            conceded: result['goalsAwayTeam'],
+        });
+
+        dict[awayTeamName].results.push({
+            location: 'away',
+            opponent: homeTeamName,
+            scored: result['goalsAwayTeam'],
+            conceded: result['goalsHomeTeam'],
+        });
     });
 
-    dict[awayTeamName].results.push({
-      location: 'away',
-      opponent: homeTeamName,
-      scored: result['goalsAwayTeam'],
-      conceded: result['goalsHomeTeam'],
-    });
-  });
-
-  return dict;
+    return dict;
 };
 
 module.exports = {
     isNonIndexFile,
     resultsArray,
     convertJSONToTeamDict,
-}
+};

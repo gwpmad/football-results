@@ -10,7 +10,7 @@ const sumPoints = (array) =>
       return memo + 1;
     }
     return memo;
-  },0);
+  }, 0);
 
 
 module.exports = (teamName) => {
