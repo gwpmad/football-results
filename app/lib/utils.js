@@ -10,7 +10,43 @@ const resultsArray = (team, venue) => {
         : results;
 };
 
+const convertJSONToTeamDict = (json) => {
+  const fixtures = json.fixtures;
+  const dict = {};
+
+  fixtures.forEach((fixture) => {
+    let homeTeamName = fixture['homeTeamName'];
+    let awayTeamName = fixture['awayTeamName'];
+    let result = fixture['result'];
+
+    dict[homeTeamName] = dict[homeTeamName] || {
+      results: [],
+    };
+
+    dict[awayTeamName] = dict[awayTeamName] || {
+      results: [],
+    };
+
+    dict[homeTeamName].results.push({
+      location: 'home',
+      opponent: awayTeamName,
+      scored: result['goalsHomeTeam'],
+      conceded: result['goalsAwayTeam'],
+    });
+
+    dict[awayTeamName].results.push({
+      location: 'away',
+      opponent: homeTeamName,
+      scored: result['goalsAwayTeam'],
+      conceded: result['goalsHomeTeam'],
+    });
+  });
+
+  return dict;
+};
+
 module.exports = {
     isNonIndexFile,
     resultsArray,
+    convertJSONToTeamDict,
 }

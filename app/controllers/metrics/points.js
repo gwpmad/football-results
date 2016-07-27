@@ -1,17 +1,17 @@
 const plResults = require('../../data/premierLeague/2015-16.json');
 const { resultsArray } = require('../../lib/utils');
 
-const sumPoints = (array) => {
-  let total = 0;
-  array.forEach((result) => {
-    if (result.scored > result.conceded) {
-      total += 3;
-    } else if (result.scored === result.conceded) {
-      total += 1;
+const sumPoints = (array) =>
+  array.reduce((memo, result) => {
+    let { scored, conceded } = result;
+    if (scored > conceded) {
+      return memo + 3;
+    } else if (scored === conceded) {
+      return memo + 1;
     }
-  });
-  return total;
-};
+    return memo;
+  },0);
+
 
 module.exports = (teamName) => {
   const teamResultsArray = resultsArray(teamName);
